@@ -27,7 +27,8 @@ my-new-project/
 │   ├── proposal.md         # 阶段一输出：需求文档
 │   ├── architecture.md     # 阶段二输出：架构设计
 │   ├── progress.md         # 阶段三输出：任务看板
-│   └── prompt.md           # 阶段四输出：Master 运行总控
+│   ├── prompt.md           # 阶段四输出：Master 运行总控
+│   └── toolbox.md          # 已验证可复用的 skill/plugin 清单
 ├── tests/                  # 单元测试目录（严苛门禁）
 └── README.md
 ```
